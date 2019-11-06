@@ -22,7 +22,7 @@ class App extends React.Component {
           <div className= "col-md-4">
               <div className= "card mt-4">
                 <div className= "card-header">
-                  <h2>Nombre: {todo.name}</h2>
+                  <h2>Nombree: {todo.name}</h2>
                   <span className= "badge badge-pill badge-danger ml-2"> 
                   Birth year: {todo.birth_year}
                   </span>
